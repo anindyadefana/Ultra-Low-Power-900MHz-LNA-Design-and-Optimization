@@ -150,12 +150,12 @@ All documents are available in the `docs/` directory.
 
 ## 🛠️ Software & Tools
 
--🔹 Keysight ADS
--🔹 RF Circuit Design
--🔹 Small-Signal Analysis
--🔹 Noise Figure Analysis
--🔹 S-Parameter Analysis
--🔹 Linearity Evaluation (IIP3)
+- 🔹 Keysight ADS
+- 🔹 RF Circuit Design
+- 🔹 Small-Signal Analysis
+- 🔹 Noise Figure Analysis
+- 🔹 S-Parameter Analysis
+- 🔹 Linearity Evaluation (IIP3)
 
 ---
 
