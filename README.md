@@ -159,15 +159,14 @@ All documents are available in the `docs/` directory.
 
 ---
 
-## 👩‍💻 Author
+## 👥 Project Team
 
-**Anindya Putri Defana**
+This project was developed as part of a group assignment in the Telecommunications Engineering course.
 
-🎓 Electrical Engineering Student
-
-🏛️ Universitas Indonesia
-
-📡 Interested in Telecommunications, RF Design, Wireless Systems, and Emerging Technologies
+Team Members:
+- Anindya Putri Defana
+- Annisa Sheryl Tabina
+- Drina Shahada Wibowo
 
 ---
 
